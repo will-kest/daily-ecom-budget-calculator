@@ -1,4 +1,7 @@
+streamlit>=1.25
+altair>=5,<7
 pandas
 streamlit
 openpyxl
 xlsxwriter
+
